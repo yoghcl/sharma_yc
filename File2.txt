@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-2nd File
-Filecontent changed locally.
-=======
-2nd File. File content changed by other developer.
->>>>>>> refs/remotes/origin/master
